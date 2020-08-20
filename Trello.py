@@ -122,7 +122,7 @@ if __name__ == "__main__":
         create_col(sys.argv[2])
 
 
-# python3 trello.py create 'Сделать из мухи слона' 'Нужно сделать'
-# python3 trello.py move 'Изучить JS!' 'В процессе'
-# python3 trello.py create_col 'Мой Aрхив'
-# python3 trello.py
+# python trello.py create 'Сделать из мухи слона' 'Моя колонка'
+# python trello.py move 'Изучить Python' 'Нужно сделать'
+# python trello.py read
+# python trello.py create_column 'Мой архив'
